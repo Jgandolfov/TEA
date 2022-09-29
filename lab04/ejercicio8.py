@@ -17,7 +17,6 @@ while True:
  except:
     print("Ingrese un numero")
 
-
 print("Contador:", contador)
 print("Suma:", suma)
 print("Promedio:", suma/contador)
