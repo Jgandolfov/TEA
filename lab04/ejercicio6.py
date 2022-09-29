@@ -14,3 +14,4 @@ try:
     print(salario)
 except:
         print("#Error, debe ingresar un valor númerico")
+        
